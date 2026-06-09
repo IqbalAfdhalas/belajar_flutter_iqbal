@@ -1,0 +1,9 @@
+# Normalisasi line ending agar konsisten di semua OS.
+* text=auto eol=lf
+
+# Perlakukan file gambar sebagai biner.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
+*.jar binary
